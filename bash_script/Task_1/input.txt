@@ -1,0 +1,9 @@
+Hello there!
+This is an example file.
+We are testing the script.
+It should work from the fifth line onward.
+Welcome to the learning session where we give knowledge.
+The goal is to give everyone an opportunity.
+Let's give it a try and see how it works!
+Welcome again! We hope you give your best effort.
+This should not change because it doesn't have the keyword.
